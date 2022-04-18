@@ -1,11 +1,15 @@
 import React from 'react';
+import Banner from '../Banner/Banner';
 import Services from '../Services/Services';
+import Travels from '../Travels/Travels';
 
 const Home = () => {
     return (
-        <div>
+        <>
+            <Banner></Banner>
             <Services></Services>
-        </div>
+            <Travels></Travels>
+        </>
     );
 };
 
