@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Bali, Indonesia",
+        "price": "$3000",
+        "description": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller neighbouring islands",
+        "img": "https://i.ibb.co/JnKd37m/bali-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Eiffel Tower",
+        "price": "$2500",
+        "description": "The Eiffel Tower has long been an icon of Paris and one of the first things that come to mind when people think of the city. I can't imagine making a TRIP TO PARIS and not seeing the Eiffel Tower.  ",
+        "img": "https://i.ibb.co/64fDdzk/eiffel.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Taj Mahal",
+        "price": "$1500",
+        "description": "Taj Mahal is a royal tomb of Agra in western Uttar Pradesh, India. Located on the southern bank of the river Jamuna on the eastern side of the city of Agra. Get ready to go there.",
+
+        "img": "https://i.ibb.co/kKqrwMx/tajmahal-1.jpg"
+    }
+]
