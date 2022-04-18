@@ -1,9 +1,10 @@
 import React from 'react';
+import './Footer.css'
 
 const Footer = () => {
     return (
         <footer>
-            <p><small>Copyright ©{new Date().getFullYear()}</small></p>
+            <p sticky='bottom' className='text-center mt-5' ><small >Copyright ©{new Date().getFullYear()}</small></p>
         </footer>
     );
 };
