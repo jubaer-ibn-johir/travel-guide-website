@@ -16,7 +16,7 @@ const travels = [
 
 const Travels = () => {
     return (
-        <div className='container '>
+        <div id="travels" className='container '>
             <h2 className='text-success mt-5 text-center m-3'>More Travel Destination</h2>
             <div className='row '>
                 {
